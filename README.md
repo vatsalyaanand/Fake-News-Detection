@@ -32,7 +32,7 @@ Misinformation has become a pervasive issue in the digital age, and accurately d
 - `data/`: Contains scripts for loading and preprocessing the LIAR dataset.
 - `notebook/`: Jupyter notebooks demonstrating the training and evaluation process.
 - `results/`: Stores the results of our experiments, including accuracy, precision, recall, and loss metrics.
-- `Fake News Detection Report`: A detailed report of the study and findings on fake news detection
+- `Fake News Detection Report.pdf`: A detailed report of the study and findings on fake news detection
 - `README.md`: Provides an overview and instructions for setting up and running the project.
 
 ## Getting Started
