@@ -55,3 +55,4 @@ Misinformation has become a pervasive issue in the digital age, and accurately d
 
 ## Acknowledgements
 We acknowledge the creators of the LIAR dataset and previous researchers whose work provided a foundation for our study.
+
